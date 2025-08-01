@@ -1,0 +1,2 @@
+void InstallHooks
+void UninstallHooks

@@ -1,0 +1,2 @@
+DWORD FindMinecraftProcess
+bool InjectDLL
