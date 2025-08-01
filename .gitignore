@@ -1,0 +1,38 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Compiled binaries
+charizard
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+*.so
+*.dylib
+
+# Config files (may contain sensitive data)
+config/charizard.json
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+third_party/imgui/
+third_party/nlohmann_json/
+
+# Logs
+*.log
