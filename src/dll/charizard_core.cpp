@@ -1,2 +1,2 @@
-“#include charizard_core.h”
+"#include charizard_core.h"
 DWORD WINAPI CharizardMain return 0
